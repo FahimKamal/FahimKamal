@@ -1,4 +1,13 @@
-## Hi there 👋
+# 🏄‍♂️ Fahim Kamal Ahmed
+
+**`Game Developer (Gamer/Dreamer/Creator)`**
+
+With 3 years of professional game development experience, I specialize in creating engaging gameplay systems and meaningful player experiences. My passion for games began during my time as a Computer Science and Engineering student, where I started building small projects and taking on client work to sharpen my skills.
+
+After graduating, I joined Nova Labs and quickly progressed from Junior Game Engine Engineer to Game Mechanics Engineer through consistent contributions and dedication. I have worked on multiple commercial game projects, taking ownership of gameplay mechanics, system design, feature implementation, and GDD writing. My technical proficiency covers both Unity and Unreal Engine, allowing me to adapt to different pipelines and challenges with confidence.
+
+I am driven by the goal of delivering games that are not only technically polished but also fun, memorable, and impactful to players around the world.
+
 
 <!--
 **FahimKamal/FahimKamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

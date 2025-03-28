@@ -28,7 +28,7 @@ I am driven by the goal of delivering games that are not only technically polish
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimKamal/FahimKamal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimKamal/FahimKamal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FahimKamal/FahimKamal/output/github-snake.svg" />
 </picture>
 
 ### 📊 GitHub Stats:

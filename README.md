@@ -40,7 +40,7 @@ I am driven by the goal of delivering games that are not only technically polish
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FahimKamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
-<source media="(prefers-color-scheme: light)" srcset="hhttps://github-readme-stats.vercel.app/api?username=FahimKamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Light&locale=en&hide_border=false" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FahimKamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Light&locale=en&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=FahimKamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </picture>
   

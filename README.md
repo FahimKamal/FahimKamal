@@ -49,8 +49,8 @@ I am driven by the goal of delivering games that are not only technically polish
 <!--   <img src="https://github-profile-trophy.vercel.app?username=FahimKamal&theme=dracula&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="300" alt="trophy graph"  /> -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=light&area=true&order=5" height="300" alt="activity-graph graph" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=react&bg_color=FFFFFF&area_color=FFFFFF&title_color=17202a&color=17202a&area=true&order=5" height="300" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=gruvbox_light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </picture>
   
   

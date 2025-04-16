@@ -1,10 +1,11 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/user-attachments/assets/5e3397d6-12f7-47b4-894a-f5af0c527cc9"></div>
 
+<div align="center" >Fahim Kamal Ahmed</div>
 
 # 💫 Fahim Kamal Ahmed
-
-**`Game Developer (Gamer/Dreamer/Creator)`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=38F75C&vCenter=true&width=1000&lines=Game+Developer;Gamer;Dreamer;Creator)](https://git.io/typing-svg)
+<!-- **`Game Developer (Gamer/Dreamer/Creator)`** -->
 
 With 3 years of professional game development experience, I specialize in creating engaging gameplay systems and meaningful player experiences. My passion for games began during my time as a Computer Science and Engineering student, where I started building small projects and taking on client work to sharpen my skills.
 

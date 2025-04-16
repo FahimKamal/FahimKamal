@@ -1,3 +1,7 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/user-attachments/assets/5e3397d6-12f7-47b4-894a-f5af0c527cc9"></div>
+
+
 # 💫 Fahim Kamal Ahmed
 
 **`Game Developer (Gamer/Dreamer/Creator)`**
@@ -53,6 +57,7 @@ I am driven by the goal of delivering games that are not only technically polish
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimKamal&radius=16&theme=gruvbox_light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </picture>
   
-  
-</div>
 
+</div>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/user-attachments/assets/5af2e8e5-345a-4b1e-8c36-1116faf8f226"></div>

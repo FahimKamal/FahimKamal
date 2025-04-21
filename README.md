@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/user-attachments/assets/5e3397d6-12f7-47b4-894a-f5af0c527cc9"></div>
 
-<div align="center" >Fahim Kamal Ahmed</div>
+<!-- <div align="center" >Fahim Kamal Ahmed</div> -->
 
 # 💫 Fahim Kamal Ahmed
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=38F75C&vCenter=true&width=1000&lines=Game+Developer;Gamer;Dreamer;Creator)](https://git.io/typing-svg)
